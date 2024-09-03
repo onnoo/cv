@@ -2,7 +2,6 @@
 html{
     font-family: 'Open Sans',sans-serif;
     background: whitesmoke;
-    max-width: 90%;
 }
 a{
     text-decoration: none;
@@ -171,6 +170,7 @@ strong,span{
 .tags{
     font-size: 17px;
     font-weight: bolder;
+    margin: 12px 0;
 }
 .tags ~ a{
     display: none !important;
