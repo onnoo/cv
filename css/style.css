@@ -193,7 +193,7 @@ strong,span{
         margin-left: 5%;
     }
 }
-@media screen and (max-width:850px){
+@media print, screen and (max-width:850px){
     #container{
         display: block;
     }
